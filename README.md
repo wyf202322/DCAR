@@ -23,6 +23,7 @@ The JSON files containing image captions for the FDRD dataset can be found in th
 ## Installation
 For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](https://github.com/wyf202322/DCAR/blob/main/INSTALL.md).
 
+Please follow the instructions at [DATASETS.md](https://github.com/wyf202322/DCAR/blob/main/DATASETS.md) to prepare all datasets.
 
 ***More code will be released soon...***
 
