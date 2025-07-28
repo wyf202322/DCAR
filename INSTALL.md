@@ -31,7 +31,7 @@ Follow the below steps to create environment and install dependencies.
   python setup.py develop
   cd ..
   ```
-- Install dassl library.
+- Clone DCAR code repository and install requirements.
   ```Python
   # Clone DCAR code base
   git clone https://github.com/wyf202322/DCAR.git
