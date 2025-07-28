@@ -16,7 +16,7 @@ Figure 2: Overview of DCAR approach.
 ## Fine-class Described Retrieval Dataset
 ![Figure 3](https://github.com/wyf202322/DCAR/blob/main/figure/fig3.png)
 
-The JSON files containing image captions for the FDRD dataset can be found in the [FDRD](https://github.com/wyf202322/DCAR/blob/main/FDRD_DATA/)
+The JSON files containing image captions for the FDRD dataset can be found in the [FDRD](https://github.com/wyf202322/DCAR/blob/main/FDRD)
 
 ***More code will be released soon...***
 
