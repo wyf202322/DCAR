@@ -4,18 +4,18 @@ Follow the below steps to create environment and install dependencies.
 
   ```
   # Create a conda environment
-  conda create -y -n dcar python=3.8
+  conda create -y -n dcar python=3.8 //(We use python==3.8.20) 
 
   # Activate the environment
   conda activate dcar
   ```
 
-- Install PyTorch (We use PyTorch 2.0.1 / CUDA 11.7)
+- Install PyTorch (We use PyTorch 1.13.1 / CUDA 11.6)
   
   ```
-  # Install torch (requires version >= 1.8.1) and torchvision
+  # Install torch and torchvision
   # Please refer to https://pytorch.org/ if you need a different cuda version
-  pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
+  pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==0.13.1 -f https://download.pytorch.org/whl/torch_stable.html
   ```
 - Install dassl library.
 
