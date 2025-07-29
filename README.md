@@ -14,7 +14,7 @@ These components improve retrieval accuracy by aligning descriptions with visual
 Figure 2: Overview of DCAR approach.
 
 ## Fine-class Described Retrieval Dataset
-![Figure 3](https://github.com/wyf202322/DCAR/blob/main/figure/fig3.jpg)
+![Figure 3](https://github.com/wyf202322/DCAR/blob/main/figure/fig3.svg)
 
 Figure 3: The pipeline for constructing the Fine-class Described Retrieval Dataset (FDRD).
 
